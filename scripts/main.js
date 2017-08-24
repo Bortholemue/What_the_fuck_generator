@@ -32,7 +32,7 @@ $(function() {
      });
 
     // Populate using a JSON file
-     WTF.init( 'sample.json' );
+    // WTF.init( 'sample.json' );
 
     // Populate using a Google spreadsheet ID (you must publish it first!)
     // @see https://support.google.com/drive/answer/37579?hl=en
